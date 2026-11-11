@@ -1,7 +1,7 @@
 /* CONFIGURAÇÕES DO ESTABELECIMENTO — EDITE AQUI PARA CADA CLIENTE */
 window.CONFIG = {
  nome:'Super Burguer', whatsapp:'5511940736787', instagram:'', endereco:'Itaquaquecetuba, São Paulo', maps:'https://www.google.com/maps/search/?api=1&query=Itaquaquecetuba%20SP', taxaEntrega:700, creditoAgencia:true, pedidosAntecipados:false,
- horario:[null,['18:00','23:00'],['18:00','23:00'],['18:00','23:00'],['18:00','24:00'],['18:00','24:00'],['18:00','23:00']],
+ horario:[null,['18:00','23:00'],['18:00','25:00'],['18:00','23:00'],['18:00','24:00'],['18:00','24:00'],['18:00','23:00']],
  imagens:{logo:'assets/img/logo.png',favicon:'assets/img/favicon.png',hero:'assets/img/banner-principal.webp',combos:'assets/img/banner-combos.webp'},
  textos:{hero:'SABOR QUE É OUTRO NÍVEL',subtitulo:'Hambúrgueres irresistíveis, ingredientes selecionados e aquele sabor que transforma qualquer fome em uma experiência incrível.'}
 };
